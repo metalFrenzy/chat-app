@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866135759847",
+    "project_id": "lonely-chat-42833",
+    "storage_bucket": "lonely-chat-42833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866135759847:android:1b3a8ed1be4d83efe43b42",
+        "android_client_info": {
+          "package_name": "com.example.lonely_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866135759847-npmteaktim70ijvkqg78jac972q2dqml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARkrgB90jtWM5i3pqnBDmVkk1jkb4lRs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866135759847-npmteaktim70ijvkqg78jac972q2dqml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
