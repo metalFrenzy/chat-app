@@ -1,8 +1,12 @@
-# lonely_app
+# lonely Chat 
 
-A new Flutter project.
+It is a chat application where users can signUp/Login and chat with other users. I developed this app using flutter and firebase.
 
-## Getting Started
+## Main Functionalities of the app
+
+* Users can signup/login 
+* Users can send and receive messages 
+* Apps sends a notification when a new message is received
 
 This project is a starting point for a Flutter application.
 
