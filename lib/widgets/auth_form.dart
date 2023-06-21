@@ -65,9 +65,8 @@ class _AuthFormState extends State<AuthForm>
       decoration: BoxDecoration(
         gradient: LinearGradient(
           colors: [
-            Color.fromARGB(255, 233, 30, 99),
-            Color.fromARGB(255, 229, 86, 134),
-            Color.fromARGB(255, 143, 108, 205),
+            Color.fromARGB(255, 220, 91, 134),
+            Color.fromARGB(255, 190, 165, 234),
             Color.fromARGB(255, 248, 187, 208),
           ],
           begin: Alignment.topCenter,
@@ -127,6 +126,7 @@ class _AuthFormState extends State<AuthForm>
                         if (value!.isEmpty || value.length < 7) {
                           return 'Password should be at least 7 characters';
                         }
+                        return null;
                       },
                       decoration: InputDecoration(
                         labelText: 'Password',

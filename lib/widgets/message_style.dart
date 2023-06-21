@@ -43,7 +43,7 @@ class MessageStyle extends StatelessWidget {
                 ),
                 color: isMe
                     ? Color.fromARGB(255, 98, 35, 208)
-                    : Color.fromARGB(255, 240, 98, 146),
+                    : Color.fromARGB(255, 235, 57, 116),
               ),
               child: Column(
                 crossAxisAlignment:
