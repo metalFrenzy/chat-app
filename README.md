@@ -15,3 +15,7 @@ I have used in this application Firebase and its service which are Firestore, fi
 Furthermore, I used firebase_auth which is A Flutter plugin to use the Firebase Authentication API. This plugin does all the heavy lifting as behind the scenes it sends the request to store the data and the token as well as manages the token. Moreover, I used firebase_storage, and image_picker, these packages helped to access the device camera and let the user take a picture so they can set their own profile picture and the firebase storage package to use the Firebase Cloud Storage API so I can store the profile picture to the firebase storage.
 
 
+##Screenshots
+![Screenshot_1687373348](https://github.com/metalFrenzy/chat-app/assets/70327788/fa53a1b8-cdf4-4d85-a465-f55f399494a7)
+![Screenshot_1687373494](https://github.com/metalFrenzy/chat-app/assets/70327788/57a2e179-c0be-4ec6-a44a-b66888c88196)
+
